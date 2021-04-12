@@ -1,5 +1,5 @@
 # test
-low power design
+# low power design
 
 1. one hot or differential code style ( counter 尽量使用独热码，格雷码）
 2. In MUX， high toggle signals use less chain（高翻转率的信号接到mux的级联最小的端， 通常是cell级别）
