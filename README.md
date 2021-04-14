@@ -6,7 +6,7 @@
 2. In MUX， high toggle signals use less chain（高翻转率的信号接到mux的级联最小的端， 通常是cell级别）
 3. signal gating， 在decoder的case中添加enbale，减少翻转
 4. bus上翻转bits达到一半时，损耗最大，超过一半后变小
-5. 
+5. clock gating： if（~reset_n）a<=0; else if(en) a<=data_in; else a<=a;  使用使能开关，最后一个eles 信号保持原值，在时序逻辑中可以不用写，保持原值比置零的功耗要低。
 
 
 # FSM
