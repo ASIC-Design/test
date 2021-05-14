@@ -67,5 +67,4 @@ end
 
 参考文档：https://www.cnblogs.com/jiang-ic/p/8119079.html
 
-![](./test/1.jpg)
-![1](https://user-images.githubusercontent.com/71587447/118216830-d1a8bf00-b4a6-11eb-86a3-6687e0caabb6.jpg)
+
