@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-01T06:43:30.464Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="8kVDRMve2ukQrvZjeK9k" version="24.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-01T06:47:15.100Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Ck9fX1NwiLmItaEnYE1U" version="24.3.0" type="github" pages="3">
   <diagram name="Arch" id="jzE36-Lyo3FbMxssoEzt">
-    <mxGraphModel dx="2588" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4174" dy="1480" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -230,7 +230,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IiuqgRpjQ-v0hnydv36A" name="第 2 页">
-    <mxGraphModel dx="2087" dy="1909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2507" dy="2156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -747,7 +747,7 @@
         <mxCell id="NdsZ__3MhjiEh3BWl1wC-130" value="axi_fw(6)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2110" y="1830" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NdsZ__3MhjiEh3BWl1wC-131" value="SMMY FUSA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="NdsZ__3MhjiEh3BWl1wC-131" value="Mem FW FUSA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="390" y="2080" width="320" height="200" as="geometry" />
         </mxCell>
         <mxCell id="NdsZ__3MhjiEh3BWl1wC-132" value="sub_sys_Config Noc" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -831,10 +831,10 @@
           <mxGeometry x="2510" y="2540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NdsZ__3MhjiEh3BWl1wC-160" value="scan_tcu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1690" y="2570" width="120" height="60" as="geometry" />
+          <mxGeometry x="1725" y="2520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NdsZ__3MhjiEh3BWl1wC-161" value="rst_gen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1830" y="2570" width="120" height="60" as="geometry" />
+          <mxGeometry x="1865" y="2520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NdsZ__3MhjiEh3BWl1wC-164" value="gpub_subsys_top_pwr_wrap" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2520" y="2730" width="200" height="30" as="geometry" />
@@ -843,16 +843,16 @@
           <mxGeometry x="2340" y="2630" width="290" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ffpic_zOEfyxwdiIMlfJ-2" value="security_ctrl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1830" y="2660" width="120" height="60" as="geometry" />
+          <mxGeometry x="1865" y="2610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ffpic_zOEfyxwdiIMlfJ-3" value="STCU_CPU_Wrap" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1690" y="2660" width="120" height="60" as="geometry" />
+          <mxGeometry x="1725" y="2610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ffpic_zOEfyxwdiIMlfJ-4" value="PMU_Wrap" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="2570" width="120" height="60" as="geometry" />
+          <mxGeometry x="1535" y="2520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ffpic_zOEfyxwdiIMlfJ-5" value="ISO_Ctrl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1540" y="2630" width="80" height="60" as="geometry" />
+          <mxGeometry x="1575" y="2580" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ffpic_zOEfyxwdiIMlfJ-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="1440" y="2290" width="280" height="150" as="geometry" />
@@ -860,11 +860,17 @@
         <mxCell id="Ffpic_zOEfyxwdiIMlfJ-7" value="APB_Decoder_free" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2450" y="2060" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mp8mhxPI4MJ4zkCsr4U2-1" value="SMMU APB FW FUSA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1875" width="250" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="mp8mhxPI4MJ4zkCsr4U2-2" value="CMM TOP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1875" width="250" height="165" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="rmNHdPRVKoZM4U-aIzxw" name="floor plan">
-    <mxGraphModel dx="1221" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
