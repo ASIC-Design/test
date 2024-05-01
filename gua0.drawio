@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-01T03:45:00.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="z6EuZmDpPlfsWwZKdv5H" version="24.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-01T04:06:15.435Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="EAivjgzXZ8M7qoewNzGL" version="24.3.0" type="github" pages="3">
   <diagram name="Arch" id="jzE36-Lyo3FbMxssoEzt">
     <mxGraphModel dx="2588" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -230,7 +230,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IiuqgRpjQ-v0hnydv36A" name="第 2 页">
-    <mxGraphModel dx="1477" dy="1551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2843" dy="2353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -675,13 +675,13 @@
         <mxCell id="NdsZ__3MhjiEh3BWl1wC-113" value="ADB400 SLV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1590" y="2300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NdsZ__3MhjiEh3BWl1wC-114" value="ADB400 MST" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="NdsZ__3MhjiEh3BWl1wC-114" value="ADB400 DVM MST" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1590" y="2360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NdsZ__3MhjiEh3BWl1wC-115" value="ADB400 SLV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="NdsZ__3MhjiEh3BWl1wC-115" value="ADB400 DVM SLV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1800" y="2300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NdsZ__3MhjiEh3BWl1wC-116" value="ADB400 MST" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="NdsZ__3MhjiEh3BWl1wC-116" value="ADB400 DVM MST" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1800" y="2360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NdsZ__3MhjiEh3BWl1wC-117" value="Data NOC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -762,7 +762,7 @@
         <mxCell id="NdsZ__3MhjiEh3BWl1wC-137" value="APB_FW" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2361" y="2390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NdsZ__3MhjiEh3BWl1wC-138" value="ADB400 SLV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="NdsZ__3MhjiEh3BWl1wC-138" value="ADB400 AXI4 SLV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2100" y="2360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NdsZ__3MhjiEh3BWl1wC-139" value="ADB400 MST" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -824,17 +824,17 @@
         <mxCell id="NdsZ__3MhjiEh3BWl1wC-154" value="main clk: 500MHZ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2820" y="2054" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NdsZ__3MhjiEh3BWl1wC-156" value="GPU_Config Noc" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="NdsZ__3MhjiEh3BWl1wC-156" value="GPU_pwr_Config Noc" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2020" y="2520" width="270" height="100" as="geometry" />
         </mxCell>
         <mxCell id="NdsZ__3MhjiEh3BWl1wC-158" value="APB Decoder" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2340" y="2540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NdsZ__3MhjiEh3BWl1wC-159" value="APB_FW" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="NdsZ__3MhjiEh3BWl1wC-159" value="APB_FW_FUSA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2510" y="2540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NdsZ__3MhjiEh3BWl1wC-160" value="scan_tcu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1830" y="2490" width="120" height="60" as="geometry" />
+          <mxGeometry x="1690" y="2570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NdsZ__3MhjiEh3BWl1wC-161" value="rst_gen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1830" y="2570" width="120" height="60" as="geometry" />
@@ -844,6 +844,18 @@
         </mxCell>
         <mxCell id="Ffpic_zOEfyxwdiIMlfJ-1" value="CFG" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2340" y="2630" width="290" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ffpic_zOEfyxwdiIMlfJ-2" value="security_ctrl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="2660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ffpic_zOEfyxwdiIMlfJ-3" value="STCU_CPU_Wrap" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="2660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ffpic_zOEfyxwdiIMlfJ-4" value="PMU_Wrap" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="2530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ffpic_zOEfyxwdiIMlfJ-5" value="ISO_Ctrl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="2590" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
