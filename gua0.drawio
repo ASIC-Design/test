@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-07T08:05:58.639Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="FP6O-w8QTbytEjr4EbNz" version="24.3.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-05-07T09:43:05.495Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ul3eU2BFCXGzIbNL-Zhk" version="24.3.0" type="github" pages="5">
   <diagram name="Arch" id="jzE36-Lyo3FbMxssoEzt">
     <mxGraphModel dx="4707" dy="1545" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1910,7 +1910,7 @@
         <mxCell id="KDc-LL_rGqNezxY1WfPb-2" value="CFG NOC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4170" y="1169" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KDc-LL_rGqNezxY1WfPb-3" value="SYS NOC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KDc-LL_rGqNezxY1WfPb-3" value="SYS data&amp;nbsp; NOC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3641.5" y="1169" width="350" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MDdNztx9YHp7EcLnivy3-1" value="ADB400&lt;div&gt;AXI 4 SLV&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1938,7 +1938,7 @@
           <mxGeometry x="4350" y="820" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-ulI5eI1hEqJT9333Vda-5" value="gpub_subsys_top_pwr_wrap" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4340" y="920" width="170" height="30" as="geometry" />
+          <mxGeometry x="4350" y="1070" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="inMBAEC0fZ6yuW2oFUd9-1" value="GPU B PWR CFG NOC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4120" y="989" width="220" height="60" as="geometry" />
