@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-09T13:19:15.975Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="6ZATv8iu7Cn6870YCMJc" version="24.3.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-05-09T13:19:55.781Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="zfNVLM78tCWDryeIZv5f" version="24.3.0" type="github" pages="5">
   <diagram name="Arch" id="jzE36-Lyo3FbMxssoEzt">
     <mxGraphModel dx="4707" dy="1545" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2120,7 +2120,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hPdiq3HURAOfTuz6_NrI" name="G78AE_Power">
-    <mxGraphModel dx="1526" dy="1942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1005" dy="1747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2458,7 +2458,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8Ku5t_ITop2B-CMPh_dl-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="2470" y="210" width="780" height="1340" as="geometry" />
+          <mxGeometry x="2470" y="210" width="780" height="1180" as="geometry" />
         </mxCell>
         <mxCell id="8Ku5t_ITop2B-CMPh_dl-2" value="Always Active" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2470" y="210" width="90" height="30" as="geometry" />
@@ -2485,7 +2485,7 @@
           <mxGeometry x="2935" y="352.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Ku5t_ITop2B-CMPh_dl-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=5;" vertex="1" parent="1">
-          <mxGeometry x="2490" y="570" width="670" height="930" as="geometry" />
+          <mxGeometry x="2490" y="570" width="670" height="790" as="geometry" />
         </mxCell>
         <mxCell id="8Ku5t_ITop2B-CMPh_dl-13" value="Slice0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2500" y="580" width="60" height="30" as="geometry" />
@@ -2536,7 +2536,7 @@
           <mxGeometry x="2835" y="880" width="225" height="110" as="geometry" />
         </mxCell>
         <mxCell id="8Ku5t_ITop2B-CMPh_dl-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="2510" y="1020" width="570" height="430" as="geometry" />
+          <mxGeometry x="2510" y="1020" width="570" height="300" as="geometry" />
         </mxCell>
         <mxCell id="8Ku5t_ITop2B-CMPh_dl-30" value="Shader Stack" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2940" y="1020" width="130" height="30" as="geometry" />
@@ -2571,26 +2571,11 @@
         <mxCell id="8Ku5t_ITop2B-CMPh_dl-40" value="SC Gating" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2887.5" y="1210" width="142.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8Ku5t_ITop2B-CMPh_dl-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2530" y="1300" width="530" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="8Ku5t_ITop2B-CMPh_dl-42" value="SC RAMs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2550" y="1330" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8Ku5t_ITop2B-CMPh_dl-43" value="Shader Core 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2930" y="1300" width="105" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8Ku5t_ITop2B-CMPh_dl-44" value="SC Logic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2735" y="1330" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8Ku5t_ITop2B-CMPh_dl-45" value="SC Gating" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2887.5" y="1330" width="142.5" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="8Ku5t_ITop2B-CMPh_dl-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FF0000;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="2505" y="840" width="580" height="170" as="geometry" />
         </mxCell>
         <mxCell id="8Ku5t_ITop2B-CMPh_dl-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FF0000;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="2500" y="1015" width="590" height="450" as="geometry" />
+          <mxGeometry x="2500" y="1015" width="590" height="315" as="geometry" />
         </mxCell>
         <mxCell id="8Ku5t_ITop2B-CMPh_dl-48" value="CG ON/OFF" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3100" y="865" width="60" height="30" as="geometry" />
