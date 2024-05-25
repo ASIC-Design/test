@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-25T02:59:07.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="eGe2IJMTFRpMHc52a1tv" version="24.4.0" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-05-25T10:15:03.696Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="P8UvVBQz5oi_-neAwO2D" version="24.4.0" type="github" pages="12">
   <diagram name="Arch" id="jzE36-Lyo3FbMxssoEzt">
     <mxGraphModel dx="4367" dy="1373" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17402,7 +17402,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="G78AE" id="SvqrcYIMSHrtbAMox5Yr">
-    <mxGraphModel dx="2240" dy="1316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="916" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19008,6 +19008,9 @@
         </UserObject>
         <mxCell id="aUQKWsPu4swnfhpXwogP-250" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 26px;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;CLK Gate Tips&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 26px;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;尽量在sub 模块做en，少在root上做en信号，root上时钟树长的timming会因为en无法收住&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 26px;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 26px;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;启动流程：26m启动先配置MCU或者某CPU，然后由Core的高频如1.1G接管，去配置所有的PLL，然后直接由高频PLL做启动reset。（子系统无需依赖26m启动后再切高频）&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 26px;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;26M起来激活MCU，以及给其他PLL提供晶振，MCU激活后为高频如1.2G&amp;nbsp; R52，再由R52去配置其他PLL，（先上电后高频配置PLL）启动无需高频&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 26px;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;上电后默认sel切到高频时钟输入&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 26px;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4120" y="880" width="380" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="Zj1oskSz7MbevSzHp_gk-250" value="TBU M0:&amp;nbsp; C0&lt;div&gt;TBU M1: C1&lt;/div&gt;&lt;div&gt;TCU M4:&amp;nbsp; DATA_SMMU&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="303" y="1762" width="177" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
