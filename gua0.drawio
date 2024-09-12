@@ -17420,7 +17420,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="G78AE" id="SvqrcYIMSHrtbAMox5Yr">
-    <mxGraphModel dx="2432" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1891" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24375,6 +24375,60 @@
         </mxCell>
         <mxCell id="SsQOgOFF7tN-oQUGtdB9-253" value="user bit：不支持B通道 R通道" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="4410" y="4853" width="90" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="U-7hks1BaE_AfHvkqAit-250" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4705" y="5300" width="225" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="U-7hks1BaE_AfHvkqAit-251" value="LUT&lt;br&gt;128id&amp;amp;CMD&lt;div&gt;1&lt;/div&gt;&lt;div&gt;X_TAG_CNT_F&lt;/div&gt;&lt;div&gt;1&lt;/div&gt;&lt;div&gt;x&lt;/div&gt;&lt;div&gt;1&lt;/div&gt;&lt;div&gt;4&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4720" y="5333" width="90" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="U-7hks1BaE_AfHvkqAit-252" value="FIFO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4620" y="5496" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U-7hks1BaE_AfHvkqAit-253" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4600" y="5320" as="sourcePoint" />
+            <mxPoint x="4590" y="5350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-7hks1BaE_AfHvkqAit-254" value="SHIFT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4880" y="5399" width="47" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="U-7hks1BaE_AfHvkqAit-255" value="1324" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5070" y="5466" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U-7hks1BaE_AfHvkqAit-256" value="COMP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4610" y="5298" width="47" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="U-7hks1BaE_AfHvkqAit-257" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4707.5" y="5480" width="225" height="159" as="geometry" />
+        </mxCell>
+        <mxCell id="U-7hks1BaE_AfHvkqAit-258" value="GL_CNT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4819" y="5336" width="62" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-7hks1BaE_AfHvkqAit-259" value="[8] F[15:0]ID[0]ODD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4962" y="5298" width="157.5" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="U-7hks1BaE_AfHvkqAit-260" value="FIFO&lt;div&gt;128&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4623.5" y="5360" width="73" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="U-7hks1BaE_AfHvkqAit-261" value="FIFO&lt;div&gt;128&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4547" y="5360" width="73" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="U-7hks1BaE_AfHvkqAit-262" value="COMP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4600" y="5453" width="47" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="U-7hks1BaE_AfHvkqAit-264" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4570" y="5447" as="sourcePoint" />
+            <mxPoint x="4590" y="5471" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-7hks1BaE_AfHvkqAit-265" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4656.31" y="5466" as="sourcePoint" />
+            <mxPoint x="4680" y="5450" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
