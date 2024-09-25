@@ -17420,7 +17420,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="G78AE" id="SvqrcYIMSHrtbAMox5Yr">
-    <mxGraphModel dx="2450" dy="1078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2137" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20894,13 +20894,13 @@
         <mxCell id="FzNTZasADx_GfRDgDbLg-401" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:14.11px;font-family:Arial;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;rst_flt&lt;/font&gt;&lt;font style=&quot;font-size:8.47px;font-family:Themed;color:#3c668c;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" style="text;vsdxID=2858;fillColor=none;gradientColor=none;strokeColor=none;strokeWidth=2;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;points=[[0,0.75,0],[0,0.25,0],[0,0.75,0],[0,0.75,0],[0,0.75,0],[1,0.5,0],[1,0.5,0],[1,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" parent="FzNTZasADx_GfRDgDbLg-398" vertex="1">
           <mxGeometry x="4.38" y="24" width="39.24" height="19.76" as="geometry" />
         </mxCell>
-        <mxCell id="FzNTZasADx_GfRDgDbLg-402" style="vsdxID=2868;fillColor=#ffffff;gradientColor=none;shape=stencil(vZLNDoMgEISfhitBthU4W/seJmIltWAQ+/P2lWya2iaSGpPeZuCbyR6GQDG0Va8JZ0Pw7qxvpg4tgQPh3NhWexMmRaAkUDTO65N3o63R91Uko7q4a2y4Y47FBGcPdBlDf0S0M3aGKqBqtwXnjOZiOfBq+xGXgkr5EUgcI/ZU5KvaMyr5toBQFGA5wP4ES5W8e8UAkugk3htrTNfhROf/35ucnnDPUD4B);strokeColor=#000000;points=[[0.88,0,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="FzNTZasADx_GfRDgDbLg-250" vertex="1">
+        <mxCell id="FzNTZasADx_GfRDgDbLg-402" style="vsdxID=2868;shape=stencil(vZLNDoMgEISfhitBthU4W/seJmIltWAQ+/P2lWya2iaSGpPeZuCbyR6GQDG0Va8JZ0Pw7qxvpg4tgQPh3NhWexMmRaAkUDTO65N3o63R91Uko7q4a2y4Y47FBGcPdBlDf0S0M3aGKqBqtwXnjOZiOfBq+xGXgkr5EUgcI/ZU5KvaMyr5toBQFGA5wP4ES5W8e8UAkugk3htrTNfhROf/35ucnnDPUD4B);points=[[0.88,0,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="FzNTZasADx_GfRDgDbLg-250" vertex="1">
           <mxGeometry x="1255" y="1100" width="165" height="96" as="geometry" />
         </mxCell>
         <mxCell id="FzNTZasADx_GfRDgDbLg-403" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:14.11px;font-family:SimSun;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;cfg soft reset&lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" style="text;vsdxID=2868;fillColor=none;gradientColor=none;strokeColor=none;points=[[0.88,0,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;verticalAlign=top;align=center;overflow=width;;html=1;" parent="FzNTZasADx_GfRDgDbLg-402" vertex="1">
           <mxGeometry y="66.97" width="165" height="96.78" as="geometry" />
         </mxCell>
-        <mxCell id="FzNTZasADx_GfRDgDbLg-404" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:25.4px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;gpu&lt;/font&gt;&lt;font style=&quot;font-size:25.4px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;_subsys_reg&lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" style="verticalAlign=middle;align=center;overflow=width;vsdxID=2869;fillColor=#ffffff;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#000000;points=[[1,0.5,0],[0.5,0,0],[0.5,0.5,0],[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="FzNTZasADx_GfRDgDbLg-250" vertex="1">
+        <mxCell id="FzNTZasADx_GfRDgDbLg-404" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:25.4px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;strike&gt;gpu&lt;/strike&gt;&lt;/font&gt;&lt;font style=&quot;font-size:25.4px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;strike&gt;_subsys_reg&lt;/strike&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="verticalAlign=middle;align=center;overflow=width;vsdxID=2869;fillColor=#ffffff;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#000000;points=[[1,0.5,0],[0.5,0,0],[0.5,0.5,0],[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="FzNTZasADx_GfRDgDbLg-250" vertex="1">
           <mxGeometry x="1008" y="1148" width="246" height="66" as="geometry" />
         </mxCell>
         <mxCell id="FzNTZasADx_GfRDgDbLg-405" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:12.7px;font-family:Times New Roman;color:#ff0000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;adb400&lt;/font&gt;&lt;font style=&quot;font-size:12.7px;font-family:Times New Roman;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" style="verticalAlign=middle;align=center;overflow=width;vsdxID=2870;fillColor=#ffffff;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#000000;points=[[1,0.5,0],[0.5,0,0],[0.5,0.5,0],[0.5,0.5,0],[0,0.29,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="FzNTZasADx_GfRDgDbLg-250" vertex="1">
@@ -24474,6 +24474,9 @@
               <mxPoint x="4690" y="5560" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="P0WpQHPXwAegvJKvgAtd-262" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;复位流程&lt;/h1&gt;&lt;p&gt;1.先复位subsys内&lt;/p&gt;&lt;p&gt;2.pwr层的sec reg读fence 状态，待idle成功保护后，内部subsy 总体rst&lt;/p&gt;&lt;p&gt;3.ADB func iso&lt;/p&gt;&lt;p&gt;4.软件配置PMU对整体进行rst&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="2400" width="240" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
