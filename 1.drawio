@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="25.0.1" pages="2">
   <diagram name="第 1 页" id="T1-0viN4zS79Opb2ue-E">
     <mxGraphModel dx="9247" dy="4124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1531,6 +1531,167 @@
         </mxCell>
         <mxCell id="eG_cysIpzDUJ8URF1WeL-306" value="clk_rf_for_cnoc" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1473" y="3618" width="73" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ENjXFjL4w4rizWBhLgsW" name="第 2 页">
+    <mxGraphModel dx="276" dy="269" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4H21wXfw7qhL61UhNpDd-1" value="种鸡公司孵化场" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="90" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4H21wXfw7qhL61UhNpDd-2" value="上下游产业链:种鸡孵化-肉鸡养殖-屠宰深加工-冻品存储-熟食加工&lt;br&gt;饲料加工-肉鸡养殖-粪污收集-肥料-" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4H21wXfw7qhL61UhNpDd-3" value="饲料厂" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="90" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4H21wXfw7qhL61UhNpDd-4" value="疫苗等" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="379" y="90" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4H21wXfw7qhL61UhNpDd-5" value="鸡舍：3.8w只" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4H21wXfw7qhL61UhNpDd-6" value="屠宰场" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="250" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4H21wXfw7qhL61UhNpDd-7" value="冷库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="300" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4H21wXfw7qhL61UhNpDd-9" value="超市" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="300" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4H21wXfw7qhL61UhNpDd-10" value="市场等" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="300" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4H21wXfw7qhL61UhNpDd-11" value="个人股东A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4H21wXfw7qhL61UhNpDd-12" value="集团控股" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="140" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4H21wXfw7qhL61UhNpDd-13" value="某品牌" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="190" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4H21wXfw7qhL61UhNpDd-14" value="运营主体A：养殖" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="290" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4H21wXfw7qhL61UhNpDd-15" value="鸡舍A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="370" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4H21wXfw7qhL61UhNpDd-16" value="个人股东B或其他" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4H21wXfw7qhL61UhNpDd-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="240" as="sourcePoint" />
+            <mxPoint x="610" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4H21wXfw7qhL61UhNpDd-18" value="授权|控股" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4H21wXfw7qhL61UhNpDd-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="270" as="sourcePoint" />
+            <mxPoint x="650" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4H21wXfw7qhL61UhNpDd-20" value="股东分红" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4H21wXfw7qhL61UhNpDd-22" value="运营主体B：饲料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="737" y="290" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4H21wXfw7qhL61UhNpDd-23" value="运营主体B：技术服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="290" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4H21wXfw7qhL61UhNpDd-24" value="鸡舍A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="380" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4H21wXfw7qhL61UhNpDd-25" value="鸡舍A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="390" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4H21wXfw7qhL61UhNpDd-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="594.71" y="360" as="sourcePoint" />
+            <mxPoint x="594.71" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4H21wXfw7qhL61UhNpDd-27" value="公司资产" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3ITbNCK3G9arqeLvzA5B-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="309.71" as="sourcePoint" />
+            <mxPoint x="720" y="309.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ITbNCK3G9arqeLvzA5B-2" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="270" as="sourcePoint" />
+            <mxPoint x="700" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ITbNCK3G9arqeLvzA5B-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="280" as="sourcePoint" />
+            <mxPoint x="700" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ITbNCK3G9arqeLvzA5B-4" value="员工" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="370" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ITbNCK3G9arqeLvzA5B-5" value="其他" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="395" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ITbNCK3G9arqeLvzA5B-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="360" as="sourcePoint" />
+            <mxPoint x="670" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ITbNCK3G9arqeLvzA5B-8" value="员工控股公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="205" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="3ITbNCK3G9arqeLvzA5B-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="250" as="sourcePoint" />
+            <mxPoint x="530" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ITbNCK3G9arqeLvzA5B-10" value="1.智能化服务；&lt;div&gt;2.流水线运维；&lt;/div&gt;&lt;div&gt;3.技术指导咨询；&lt;/div&gt;&lt;div&gt;4.鸡舍搭建租赁；3-4w/m；&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="340" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="buE4lItRtBFlo4-dijGQ-2" value="鸡粪处理厂" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="240" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="buE4lItRtBFlo4-dijGQ-3" value="鸡舍设备：风机，温帘，料线，暖风炉，臭氧消毒，湿度等" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="430" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3mXmpmlBtTdyUbiT50W_-1" value="3w标准长度：120m（100m)*16m，5根水线，4根料线&lt;div&gt;1只鸡2.5公斤粪&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="475" y="480" width="195" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w3gGtSOjHX7-xXjxc5HV-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="130" as="sourcePoint" />
+            <mxPoint x="170" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w3gGtSOjHX7-xXjxc5HV-2" value="机械化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w3gGtSOjHX7-xXjxc5HV-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="200" as="sourcePoint" />
+            <mxPoint x="170" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w3gGtSOjHX7-xXjxc5HV-5" value="40天卡车运输" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="210" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
