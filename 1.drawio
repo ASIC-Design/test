@@ -7873,7 +7873,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3bIDebpL_fswiNrVn3AT" name="power_domain">
-    <mxGraphModel dx="2618" dy="6793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="652" dy="6002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8972,7 +8972,7 @@
         <mxCell id="-FdgJuOPwLWw5vIGzkIH-363" value="TSV" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=3;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="5527" y="-2120" width="70" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="-FdgJuOPwLWw5vIGzkIH-364" value="PMU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-FdgJuOPwLWw5vIGzkIH-364" value="PMC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4265" y="-2111.4700000000003" width="80" height="39" as="geometry" />
         </mxCell>
         <mxCell id="-FdgJuOPwLWw5vIGzkIH-365" value="CRG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -9925,6 +9925,9 @@
         </mxCell>
         <mxCell id="-FdgJuOPwLWw5vIGzkIH-807" value="NIU" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="6707" y="1240" width="439" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2Y0F6bnFb4pGeNE6qaBr-1" value="DBG" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="4400" y="-2181.5000000000005" width="80" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -12359,7 +12362,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GVLmQavSgkWpPsS7xkHk" name="Debug BUS">
-    <mxGraphModel dx="-6600" dy="5037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-2990" dy="6834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
