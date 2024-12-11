@@ -16255,7 +16255,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_cLEZTPTzvP7SQ3C1me0" name="SCP_TOP">
-    <mxGraphModel dx="3135" dy="1990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2382" dy="1573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17146,8 +17146,8 @@
         <mxCell id="dlFcBoEE1DKre2LEZiSt-50" value="SS_REG" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-475.5" y="2824.43" width="53.75" height="20.59" as="geometry" />
         </mxCell>
-        <mxCell id="dlFcBoEE1DKre2LEZiSt-53" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Open Issues&lt;/h1&gt;&lt;p&gt;1.debug 与 cfg 阻塞bus；&lt;/p&gt;&lt;p&gt;2.远程PCIE访问DEBUG仅允许访问PE内，不允许访问PE TOP其他地址；&lt;/p&gt;&lt;p&gt;3.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="2620" width="180" height="120" as="geometry" />
+        <mxCell id="dlFcBoEE1DKre2LEZiSt-53" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Open Issues&lt;/h1&gt;&lt;p&gt;1.debug 与 cfg 阻塞bus；&lt;/p&gt;&lt;p&gt;2.远程PCIE访问DEBUG仅允许访问PE内，不允许访问PE TOP其他地址；&lt;/p&gt;&lt;p&gt;3.sys timestamp属于CFG/DEBUG？&lt;/p&gt;&lt;p&gt;4.core cross trigger 仅cluster 内由DEBUG配置？&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1040" y="2620" width="250" height="180" as="geometry" />
         </mxCell>
         <mxCell id="dlFcBoEE1DKre2LEZiSt-55" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
